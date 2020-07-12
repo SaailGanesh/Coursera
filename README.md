@@ -1,2 +1,2 @@
 # Coursera
-Assignments and Projects
+Assignments and Projects from Coursera
